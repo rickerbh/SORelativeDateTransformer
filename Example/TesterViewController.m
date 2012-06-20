@@ -10,11 +10,6 @@
 
 @implementation TesterViewController
 
-- (void)dealloc 
-{
-	[relativeDateTransformer release];
-	[super dealloc];
-}
 
 #pragma mark -
 
